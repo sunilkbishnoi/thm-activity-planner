@@ -163,7 +163,7 @@ END:VEVENT
 const App = () => {
   const [year, setYear] = useState(2025);
   const [activityMap, setActivityMap] = useState({});
-  const [textInput, setTextInput] = useState("CYBER");
+  const [textInput, setTextInput] = useState("THM01");
   const [brushColor, setBrushColor] = useState(3);
   const [isConfirmingClear, setIsConfirmingClear] = useState(false);
   
