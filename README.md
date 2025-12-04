@@ -4,7 +4,6 @@
 
 Live demo → https://sunilkbishnoi.github.io/thm-activity-planner
 
-https://github.com/user-attachments/assets/5f9c5d57-9e8f-4e4b-9c3f-8e8d5f5e8f5d
 
 ### Features
 - Type any word (e.g. SUNIL, HACKER, CYBER, OSCP) → instantly becomes **pixel art** on the calendar
@@ -17,7 +16,7 @@ https://github.com/user-attachments/assets/5f9c5d57-9e8f-4e4b-9c3f-8e8d5f5e8f5d
 ### Perfect for
 - 365-day TryHackMe streaks
 - OSCP / cert exam prep
-- Showing off discipline on your profile or résumé
+- Showing off discipline on your profile or resume
 
 ### Tech
 React + Vite + Tailwind CSS + Lucide icons  
